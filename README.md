@@ -1,2 +1,5 @@
-# PrepCourse-Henry
-Repositorio de Prueba Modulo 2 de Henry
+Modulo de Prueba
+Repositorio de Modulo 2 de Henry
+
+Curso Henry Modulo 2
+Pruebas
